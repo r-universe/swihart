@@ -16,6 +16,10 @@
     "oncran": true
   },
   {
+    "package": "mvgb",
+    "oncran": true
+  },
+  {
     "package": "mvpd",
     "oncran": true
   },

@@ -23,6 +23,11 @@
 	url = https://github.com/swihart/growth
 	shallow = true
 	registered = true
+[submodule "mvgb"]
+	path = mvgb
+	url = https://github.com/swihart/mvgb
+	shallow = true
+	registered = true
 [submodule "mvpd"]
 	path = mvpd
 	url = https://github.com/swihart/mvpd
