@@ -12,6 +12,10 @@
     "oncran": true
   },
   {
+    "package": "growth",
+    "oncran": true
+  },
+  {
     "package": "mvgb",
     "oncran": true
   },

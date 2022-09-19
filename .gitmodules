@@ -18,6 +18,11 @@
 	url = https://github.com/swihart/gnlm
 	shallow = true
 	registered = true
+[submodule "growth"]
+	path = growth
+	url = https://github.com/swihart/growth
+	shallow = true
+	registered = true
 [submodule "mvgb"]
 	path = mvgb
 	url = https://github.com/swihart/mvgb
