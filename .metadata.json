@@ -1,22 +1,10 @@
 [
   {
-    "package": "bridgedist",
-    "oncran": true
-  },
-  {
-    "package": "event",
-    "oncran": true
-  },
-  {
-    "package": "gnlm",
-    "oncran": true
-  },
-  {
     "package": "growth",
     "oncran": true
   },
   {
-    "package": "mvgb",
+    "package": "event",
     "oncran": true
   },
   {
@@ -28,7 +16,19 @@
     "oncran": true
   },
   {
+    "package": "gnlm",
+    "oncran": true
+  },
+  {
+    "package": "mvgb",
+    "oncran": true
+  },
+  {
     "package": "rmutil",
+    "oncran": true
+  },
+  {
+    "package": "bridgedist",
     "oncran": true
   },
   {

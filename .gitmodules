@@ -3,29 +3,14 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "bridgedist"]
-	path = bridgedist
-	url = https://github.com/swihart/bridgedist
-	shallow = true
-	registered = true
-[submodule "event"]
-	path = event
-	url = https://github.com/swihart/event
-	shallow = true
-	registered = true
-[submodule "gnlm"]
-	path = gnlm
-	url = https://github.com/swihart/gnlm
-	shallow = true
-	registered = true
 [submodule "growth"]
 	path = growth
 	url = https://github.com/swihart/growth
 	shallow = true
 	registered = true
-[submodule "mvgb"]
-	path = mvgb
-	url = https://github.com/swihart/mvgb
+[submodule "event"]
+	path = event
+	url = https://github.com/swihart/event
 	shallow = true
 	registered = true
 [submodule "mvpd"]
@@ -38,9 +23,24 @@
 	url = https://github.com/swihart/repeated
 	shallow = true
 	registered = true
+[submodule "gnlm"]
+	path = gnlm
+	url = https://github.com/swihart/gnlm
+	shallow = true
+	registered = true
+[submodule "mvgb"]
+	path = mvgb
+	url = https://github.com/swihart/mvgb
+	shallow = true
+	registered = true
 [submodule "rmutil"]
 	path = rmutil
 	url = https://github.com/swihart/rmutil
+	shallow = true
+	registered = true
+[submodule "bridgedist"]
+	path = bridgedist
+	url = https://github.com/swihart/bridgedist
 	shallow = true
 	registered = true
 [submodule "stable"]
