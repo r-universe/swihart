@@ -17,9 +17,6 @@
 [submodule "mvgb"]
 	path = mvgb
 	url = https://github.com/swihart/mvgb
-[submodule "mvpd"]
-	path = mvpd
-	url = https://github.com/swihart/mvpd
 [submodule "repeated"]
 	path = repeated
 	url = https://github.com/swihart/repeated
