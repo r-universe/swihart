@@ -16,7 +16,7 @@
 	url = https://github.com/swihart/growth
 [submodule "libstable4u"]
 	path = libstable4u
-	url = https://github.com/cran/libstable4u
+	url = https://github.com/swihart/libstable4u
 [submodule "mvgb"]
 	path = mvgb
 	url = https://github.com/swihart/mvgb
