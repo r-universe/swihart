@@ -5,9 +5,6 @@
 [submodule "bridgedist"]
 	path = bridgedist
 	url = https://github.com/swihart/bridgedist
-[submodule "event"]
-	path = event
-	url = https://github.com/swihart/event
 [submodule "gnlm"]
 	path = gnlm
 	url = https://github.com/swihart/gnlm
